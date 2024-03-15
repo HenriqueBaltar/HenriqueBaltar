@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HenriqueBaltar (@Henrique.Baltar on Instagram)!
 - 👀 I'm a lecturer/researcher/hardware and firmware developer.
-- 🌱 Website: henriquebaltar.com.
+- 🌱 Website: www.henriquebaltar.com.
 - 📫 E-mail: henrique@ci.ufpb.br.
 
 <!---
